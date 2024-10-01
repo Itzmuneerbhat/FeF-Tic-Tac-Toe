@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #1e2c34;
+    background-color: #3d5a80;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -14,7 +14,7 @@ body {
 }
 
 h1 {
-    color: #454d53;
+    color: #d0ddde;
 }
 
 #game-board {
@@ -29,7 +29,7 @@ h1 {
 .cell {
     width: 100px;
     height: 100px;
-    background-color: #2b373c;
+    background-color: #ffd9da;
     border: 2px solid #445457;
     border-radius: 30px;
     display: flex;
@@ -47,6 +47,7 @@ h1 {
 #status-message {
     margin-top: 20px;
     font-size: 1.5em;
+    color: antiquewhite;
 }
 
 button {
